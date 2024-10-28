@@ -1,9 +1,6 @@
 # Hello Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px">
 I'm Yone Chinese student developer
 
-# Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,java,ruby)](https://skillicons.dev)
-
 # GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoneIsBack&layout=compact&theme=dark)
 
