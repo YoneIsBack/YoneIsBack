@@ -1,4 +1,4 @@
-# Hello, I'm Yone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px">
+# Hello Everyone, I'm Yone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px">
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,java,ruby)](https://skillicons.dev)
 
