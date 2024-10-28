@@ -1,7 +1,5 @@
 # Hello Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px">
-
-# About Me
- I'm Yone Chinese student developer
+I'm Yone Chinese student developer
 
 # Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,java,ruby)](https://skillicons.dev)
