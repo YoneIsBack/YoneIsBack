@@ -1,4 +1,6 @@
 # Hello Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px">
+
+# About Me
 ```sh
  I'm Yone Chinese student developer
 ```
